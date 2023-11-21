@@ -1,94 +1,29 @@
-{
-    "result":[
-        {
-            "id": "1",
-            "name": "Alucard",
-            "role": "Fighter,Assassin",
-            "specially": "Charge,Crowd Control",
-            "laning": "EXP Laner",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/alucard.jpg"
-        },
-        {
-            "id": "2",
-            "name": "Bruno",
-            "role": "Marksman",
-            "specially": "Finisher, Burst",
-            "laning": "Gold Laner",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/bruno.jpg"
-        },
-        {
-            "id": "3",
-            "name": "Fanny",
-            "role": "Assasin",
-            "specially": "Charge, reap",
-            "laning": "Jungler",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/fanny.jpg"
-        },
-        {
-            "id": "4",
-            "name": "Lancelot",
-            "role": "Assasin",
-            "specially": "Charge, Burst",
-            "laning": "Jungler",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/lancelot.jpg"
-        },
-        {
-            "id": "5",
-            "name": "Claude",
-            "role": "Marksman",
-            "specially": "Reap, Burst",
-            "laning": "Gold Laner",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/claude.jpg"
-        },
-        {
-            "id": "6",
-            "name": "Clint",
-            "role": "Marksman",
-            "specially": "Reap",
-            "laning": "Gold Laner",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/clint.jpg"
-        },
-        {
-            "id": "7",
-            "name": "Ling",
-            "role": "Assasin",
-            "specially": "Reap, Burst Damage",
-            "laning": "Jungler",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/clint.jpg"
-        },
-        {
-            "id": "8",
-            "name": "Granger",
-            "role": "Marksman",
-            "specially": "Reap, Burst Damage",
-            "laning": "Jungler, Gold Laner",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/granger.jpg"
-        },
-        {
-            "id": "9",
-            "name": "Hanabi",
-            "role": "Marksman",
-            "specially": "Regen,Burst Damagee",
-            "laning": "Gold Laner",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/hanabi.jpg"
-        },
-        {
-            "id": "10",
-            "name": "Gusion",
-            "role": "Assasin",
-            "specially": "Charge, Burst Damagee",
-            "laning": "Jungler",
-            "release_year": "2016",
-            "avatar": "https://dazelpro.com/files/images/gusion.jpg"
-        }
-    ]
-}
+[
+    {
+        "id": "1",
+        "name": "Alucard",
+        "role": "Fighter,Assassin",
+        "specially": "Charge,Crowd Control",
+        "laning": "EXP Laner",
+        "release_year": "2016",
+        "avatar": "https:\/\/dazelpro.com\/files\/images\/alucard.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Alucard",
+        "role": "Fighter,Assassin",
+        "specially": "Charge,Crowd Control",
+        "laning": "EXP Laner",
+        "release_year": "2016",
+        "avatar": "https:\/\/dazelpro.com\/files\/images\/alucard.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Alucard",
+        "role": "Fighter,Assassin",
+        "specially": "Charge,Crowd Control",
+        "laning": "EXP Laner",
+        "release_year": "2016",
+        "avatar": "https:\/\/dazelpro.com\/files\/images\/alucard.jpg"
+    }
+]
